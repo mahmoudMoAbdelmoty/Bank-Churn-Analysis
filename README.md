@@ -5,6 +5,9 @@
 ### Project Overview
 Analysis of bank churn data. Churn in this context signifies the number of customers who have left the bank.
 
+### Tools
+- Power Bi
+- SQL Server
 ## WorkFlow
 ### Data Connection
 Establish a stable connection to the source of the bank churn data.
