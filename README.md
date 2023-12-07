@@ -1,4 +1,4 @@
-![alt text]()
+![alt text](https://github.com/mahmoudMoAbdelmoty/Bank-Churn-Analysis/blob/main/Dashboard.jpg?raw=true)
 
 # Bank-Churn-Analysis
 
